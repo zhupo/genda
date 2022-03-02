@@ -1,0 +1,813 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://www.gendafs.com/english/index.html",
+            "path": "index.html",
+            "saved": true,
+            "size": 26756,
+            "children": [
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161701499196.png",
+                    "path": "img/201708161701499196.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/img/nav_fd.png",
+                    "path": "img/nav_fd.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/202112/21/202112211557218936.jpg",
+                    "path": "img/202112211557218936.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/202112/21/202112211539078293.jpg",
+                    "path": "img/202112211539078293.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201710/23/201710231311039062.jpg",
+                    "path": "img/201710231311039062.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161100011019.png",
+                    "path": "img/201708161100011019.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/img/yz.png",
+                    "path": "img/yz.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161101327992.png",
+                    "path": "img/201708161101327992.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161102088002.png",
+                    "path": "img/201708161102088002.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161102371688.png",
+                    "path": "img/201708161102371688.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161102488305.png",
+                    "path": "img/201708161102488305.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161347001850.png",
+                    "path": "img/201708161347001850.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161347404763.png",
+                    "path": "img/201708161347404763.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161347526330.png",
+                    "path": "img/201708161347526330.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161341379205.jpg",
+                    "path": "img/201708161341379205.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161409144863.png",
+                    "path": "img/201708161409144863.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/img/szj.png",
+                    "path": "img/szj.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161409254169.png",
+                    "path": "img/201708161409254169.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/16/201708161409345844.png",
+                    "path": "img/201708161409345844.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/202112/20/202112201726086438.jpg",
+                    "path": "img/202112201726086438.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/img/fdj2.png",
+                    "path": "img/fdj2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/202112/20/202112201735275563.png",
+                    "path": "img/202112201735275563.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/img/fdj.png",
+                    "path": "img/fdj.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/202112/20/202112201753159433.png",
+                    "path": "img/202112201753159433.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/202112/20/202112201818583521.jpg",
+                    "path": "img/202112201818583521.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/202112/20/202112201721089757.jpg",
+                    "path": "img/202112201721089757.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/img/zbgg.jpg",
+                    "path": "img/zbgg.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/202112/21/202112211629314332.jpg",
+                    "path": "img/202112211629314332.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/img/foot_dh.png",
+                    "path": "img/foot_dh.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/upload/201708/18/201708180951526638.jpg",
+                    "path": "img/201708180951526638.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/js/jquery-1.8.3.min.js",
+                    "path": "js/jquery-1.8.3.min.js",
+                    "saved": true,
+                    "size": 93637,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/js/jquery.SuperSlide.2.1.1.js",
+                    "path": "js/jquery.SuperSlide.2.1.1.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/js/index.js",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 2757,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/js/countUp.min.js",
+                    "path": "js/countUp.min.js",
+                    "saved": true,
+                    "size": 3364,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/js/common.js",
+                    "path": "js/common.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/css/pc.css",
+                    "path": "css/pc.css",
+                    "saved": true,
+                    "size": 64437,
+                    "children": [
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/bn_d2.png",
+                            "path": "img/bn_d2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/bn_d1.png",
+                            "path": "img/bn_d1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/bn_z.png",
+                            "path": "img/bn_z.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/bn_y.png",
+                            "path": "img/bn_y.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_bt.png",
+                            "path": "img/idx_bt.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/jt.png",
+                            "path": "img/jt.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/jt2.png",
+                            "path": "img/jt2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2a.png",
+                            "path": "img/idx_h2a.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2b.png",
+                            "path": "img/idx_h2b.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2c.png",
+                            "path": "img/idx_h2c.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2d.png",
+                            "path": "img/idx_h2d.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2e.png",
+                            "path": "img/idx_h2e.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2a2.png",
+                            "path": "img/idx_h2a2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2b2.png",
+                            "path": "img/idx_h2b2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2c2.png",
+                            "path": "img/idx_h2c2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2d2.png",
+                            "path": "img/idx_h2d2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h2e2.png",
+                            "path": "img/idx_h2e2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/idx_h4bj.jpg",
+                            "path": "img/idx_h4bj.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/tm_c.png",
+                            "path": "img/tm_c.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/jt3.png",
+                            "path": "img/jt3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/jt4.png",
+                            "path": "img/jt4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/d1.png",
+                            "path": "img/d1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/qq.png",
+                            "path": "img/qq.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/dh.png",
+                            "path": "img/dh.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/ycfd_e1.png",
+                            "path": "img/ycfd_e1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/jtb.png",
+                            "path": "img/jtb.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/jta.png",
+                            "path": "img/jta.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fxt.png",
+                            "path": "img/fxt.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/al_a7.png",
+                            "path": "img/al_a7.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/dj_a1.png",
+                            "path": "img/dj_a1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/dj_a2.png",
+                            "path": "img/dj_a2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/dj_al.jpg",
+                            "path": "img/dj_al.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gn_bj.png",
+                            "path": "img/gn_bj.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gn_c3bj.jpg",
+                            "path": "img/gn_c3bj.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/yj_a6.png",
+                            "path": "img/yj_a6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/yj_a7.png",
+                            "path": "img/yj_a7.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/yj_bj.png",
+                            "path": "img/yj_bj.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_a4.png",
+                            "path": "img/gy_a4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_a5.png",
+                            "path": "img/gy_a5.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_a6.png",
+                            "path": "img/gy_a6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_a7.png",
+                            "path": "img/gy_a7.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_a9.png",
+                            "path": "img/gy_a9.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_b8.png",
+                            "path": "img/gy_b8.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/xt_z.png",
+                            "path": "img/xt_z.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/xt_y.png",
+                            "path": "img/xt_y.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/xt_d.png",
+                            "path": "img/xt_d.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/xt_dd.png",
+                            "path": "img/xt_dd.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/xt_sj.png",
+                            "path": "img/xt_sj.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/xt_xhx.png",
+                            "path": "img/xt_xhx.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/xt_lx.png",
+                            "path": "img/xt_lx.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gywm_a1.png",
+                            "path": "img/gywm_a1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gywm_a2.png",
+                            "path": "img/gywm_a2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_yyz.png",
+                            "path": "img/gy_yyz.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_yyz2.png",
+                            "path": "img/gy_yyz2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_yyy.png",
+                            "path": "img/gy_yyy.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_yyy2.png",
+                            "path": "img/gy_yyy2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/gy_zbj.png",
+                            "path": "img/gy_zbj.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_a7.png",
+                            "path": "img/fz_a7.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_a4.png",
+                            "path": "img/fz_a4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_b4.png",
+                            "path": "img/fz_b4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_b5.png",
+                            "path": "img/fz_b5.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_a5.png",
+                            "path": "img/fz_a5.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_a2.png",
+                            "path": "img/fz_a2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_c2.png",
+                            "path": "img/fz_c2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_d2.png",
+                            "path": "img/fz_d2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_b2.png",
+                            "path": "img/fz_b2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fz_a6.png",
+                            "path": "img/fz_a6.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/fxt2.png",
+                            "path": "img/fxt2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.gendafs.com/templates/english/img/dz_lx.png",
+                            "path": "img/dz_lx.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.gendafs.com/templates/english/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-gendafs-com-36napf38",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://www.gendafs.com/english/index.html",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://www.gendafs.com/english/index.html",
+            "statusCode": 200,
+            "headers": {
+                "cache-control": "private",
+                "content-type": "text/html; charset=utf-8",
+                "vary": "Accept-Encoding",
+                "server": "Microsoft-IIS/10.0",
+                "x-aspnet-version": "4.0.30319",
+                "x-powered-by": "ASP.NET",
+                "date": "Wed, 02 Mar 2022 16:11:05 GMT",
+                "connection": "close",
+                "content-length": "8010"
+            }
+        },
+        "time": {
+            "start": "2022-03-02T16:11:05.966Z",
+            "end": "2022-03-02T16:11:25.306Z"
+        },
+        "remark": [],
+        "title": "High consistency refining|HC refining|Bamboo tissue|Wastepaper beating-Genda Fiber Science",
+        "ip": "47.97.213.164",
+        "url": "http://www.gendafs.com/english/index.html",
+        "main": "index.html",
+        "domain": "www.gendafs.com",
+        "origin": "http://www.gendafs.com",
+        "totalSize": "191 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://www.gendafs.com/english/index.html",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
